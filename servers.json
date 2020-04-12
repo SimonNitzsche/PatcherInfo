@@ -1,1 +1,5 @@
-[{"name":"localhost","ip":"127.0.0.1"},{"name":"OpCrux EU Testserver","ip":"eu1.opcrux.org"}]
+[
+  {"name":"localhost","ip":"127.0.0.1"},
+  {"name":"LEGO Universe Speedrunning Server","ip":"lu.encry.uk"},
+  {"name":"OpCrux EU Testserver","ip":"eu1.opcrux.org"}
+]
